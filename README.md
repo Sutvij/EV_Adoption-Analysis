@@ -1,4 +1,4 @@
-# ⚡ ElectriVue: Electric Vehicle Population Analysis Dashboard
+# ⚡Electric Vehicle Population Analysis Dashboard
 
 A dynamic, interactive Power BI dashboard built to analyse the adoption, performance, and demographic distribution of over 150,000 electric vehicles across the United States.
 
