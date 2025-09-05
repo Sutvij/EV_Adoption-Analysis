@@ -4,7 +4,7 @@ A dynamic, interactive Power BI dashboard built to analyse the adoption, perform
 
 ![Power BI Dashboard](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adpotion_Analysis.pbit)
 
-![Power BI Dashboard Screenshot]([powerbi-dashboard-screenshot.png](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adoption%20Trend.png))
+![Power BI Dashboard Screenshot](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adoption%20Trend.png)
 
 ## 📖 Project Overview
 
