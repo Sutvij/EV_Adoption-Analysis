@@ -2,7 +2,7 @@
 
 A dynamic, interactive Power BI dashboard built to analyse the adoption, performance, and demographic distribution of over 150,000 electric vehicles across the United States.
 
-![Power BI Dashboard]([https://via.placeholder.com/800x450/26b05f/ffffff?text=ElectriVue+Dashboard+Preview](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adoption%20Trend.png))
+![Power BI Dashboard](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adpotion_Analysis.pbit)
 
 ![Power BI Dashboard Screenshot]([powerbi-dashboard-screenshot.png](https://github.com/Sutvij/EV_Adoption-Analysis/blob/main/EV_Adoption%20Trend.png))
 
